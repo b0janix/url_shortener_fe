@@ -126,7 +126,7 @@ export default {
 			}
 			
 		},
-		async openUrl(url) {
+		openUrl(url) {
 			window.location.href = url
 		}        
 	},
